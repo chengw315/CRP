@@ -1,0 +1,16 @@
+E:\POJ_VS2015\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\POJ_VS2015\WindowsFormsApplication1 - 副本\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\POJ_VS2015\WindowsFormsApplication1 - 副本\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\POJ_VS2015\WindowsFormsApplication1 - 副本\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\POJ_VS2015\WindowsFormsApplication1 - 副本\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+E:\POJ_VS2015\WindowsFormsApplication1 - 副本\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\POJ_VS2015\WindowsFormsApplication1 - 副本\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\POJ_VS2015\WindowsFormsApplication1 - 副本\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\POJ_VS2015\WindowsFormsApplication1 - 副本\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\POJ_VS2015\WindowsFormsApplication1 - 副本\WindowsFormsApplication1\bin\Debug\AForge.Controls.dll
+E:\POJ_VS2015\WindowsFormsApplication1 - 副本\WindowsFormsApplication1\bin\Debug\AForge.dll
+E:\POJ_VS2015\WindowsFormsApplication1 - 副本\WindowsFormsApplication1\bin\Debug\AForge.Imaging.dll
+E:\POJ_VS2015\WindowsFormsApplication1 - 副本\WindowsFormsApplication1\bin\Debug\AForge.Video.DirectShow.dll
+E:\POJ_VS2015\WindowsFormsApplication1 - 副本\WindowsFormsApplication1\bin\Debug\AForge.Video.dll
+E:\POJ_VS2015\WindowsFormsApplication1 - 副本\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\POJ_VS2015\WindowsFormsApplication1 - 副本\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
